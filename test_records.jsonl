@@ -1,0 +1,14 @@
+{"hi": "there"}
+{"foo":"yep","number":12312}
+{"testdrop": true, "updateDescription": "will not show up"}
+{"nested": {"cool": 124, "enabled": false}}
+{"array": [1, 2, 3, null]}
+{"array": [null, null, {"yo": "cool"}]}
+{"nested_array": [[1, 2], [3, 4], [5, 6.0]]}
+{"array_of_structs": [{"hi": "world"}, {"cool": 1}]}
+{"nested_array_of_weirdness": [[1], ["2"]]}
+{"allnull": [null]}
+{"empty": []}
+{"nestedempty": [[1, 2], []]}
+{"super_nested_weird": [[], [["1"]], [[2]]]}
+{"nestednested": [{"some": [1, 2]}, {"some": ["hi"]}, {"some": []}, {"other": [{"hi":"world"}, {"cool":"yo"}]}]}
